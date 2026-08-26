@@ -1,0 +1,1 @@
+Extract this ZIP before uploading to GitHub. Upload the CONTENTS of this folder to the repository root. Do NOT upload an .env file or your OpenAI API key.
